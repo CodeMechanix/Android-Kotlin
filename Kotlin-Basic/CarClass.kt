@@ -1,6 +1,4 @@
-/**
- * Created by hussienalrubaye on 12/31/17.
- */
+
 
 class Car(){
     var type:String?=null
