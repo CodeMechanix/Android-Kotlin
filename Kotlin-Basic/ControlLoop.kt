@@ -1,7 +1,5 @@
 
 fun main(args:Array<String>){
-
-
    loop@ for (count in 1..10){
 
         for (count2 in 1..5) {
@@ -10,9 +8,6 @@ fun main(args:Array<String>){
                 break@loop
             }
         }
-
     }
-
     println(" loop done")
-
 }
